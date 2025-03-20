@@ -1,9 +1,9 @@
 //pages/index.js
 
 import React from 'react';
-import Sidebar from '../components/Sidebar';
-import Navbar from '../components/Navbar';
-import MainContent from '../components/MainContent';
+import SidebarII from './components/SidebarII';
+import Navbar from './components/Navbar';
+import MainContent from './components/MainContent';
 
 const Home = () => {
     return (
@@ -16,7 +16,7 @@ const Home = () => {
             </nav>
 
             {/* SIDEBAR */}
-            <Sidebar />
+            <SidebarII />
             {/* SIDEBAR */}
 
             {/* CONTENT */}

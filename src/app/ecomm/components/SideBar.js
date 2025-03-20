@@ -23,7 +23,7 @@ const Sidebar = () => {
                     <a href="#">
                         <i className="bx bxs-cart-add"></i>
                         <span className="text">
-                            Orders
+                            Pedidos
                         </span>
                     </a>
                 </li>
@@ -31,7 +31,7 @@ const Sidebar = () => {
                     <a href="#">
                         <i className="bx bxs-store"></i>
                         <span className="text">
-                            Products
+                            Produtos
                         </span>
                     </a>
                 </li>
@@ -39,7 +39,7 @@ const Sidebar = () => {
                     <a href="#">
                         <i className="bx bxs-user"></i>
                         <span className="text">
-                            Customers
+                            Clientes
                         </span>
                     </a>
                 </li>
@@ -47,7 +47,7 @@ const Sidebar = () => {
                     <a href="#">
                         <i className="bx bxs-chart"></i>
                         <span className="text">
-                            Analytics
+                            Analises
                         </span>
                     </a>
                 </li>
